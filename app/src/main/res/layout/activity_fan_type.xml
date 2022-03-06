@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Type.FanType">
+
+    <LinearLayout
+        android:id="@+id/FanType"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="1260dp">
+
+        <TextView
+            android:id="@+id/Title"
+            android:layout_width="match_parent"
+            android:layout_height="104dp"
+            android:text="Chọn nhà sản xuất"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="40dp"
+            android:background="@drawable/sel_item"/>
+
+        <TextView
+            android:id="@+id/FanSamsung"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:background="@drawable/sel_item"
+            android:gravity="center"
+            android:text="Samsung" />
+
+        <TextView
+            android:id="@+id/FanSony"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:text="Sony"
+            android:gravity="center"
+            android:background="@drawable/sel_item"/>
+
+        <TextView
+            android:id="@+id/FanLG"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:text="LG"
+            android:gravity="center"
+            android:background="@drawable/sel_item"/>
+
+        <TextView
+            android:id="@+id/FanSharp"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:text="Sharp"
+            android:gravity="center"
+            android:background="@drawable/sel_item"/>
+
+        <TextView
+            android:id="@+id/FanSanyo"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:text="Sanyo"
+            android:gravity="center"
+            android:background="@drawable/sel_item"/>
+        <TextView
+            android:id="@+id/FanExit"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:text="Thoát"
+            android:gravity="center"
+            android:background="@drawable/sel_item"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

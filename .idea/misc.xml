@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/drawable/sel_item.xml" value="0.13802083333333334" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_fan_samsung_controll.xml" value="0.264" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_fan_type.xml" value="0.121875" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_samsung_control.xml" value="0.264" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_tv_samsung_control.xml" value="0.18704710144927536" />
+        <entry key="..\:/NVT/KHOALUAN/Android/app/src/main/res/layout/activity_tvtype.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
